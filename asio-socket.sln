@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asio-socket", "asio-socket.vcxproj", "{705598C0-3158-481D-BCFF-F30D035EDD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Debug|x64.ActiveCfg = Debug|x64
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Debug|x64.Build.0 = Debug|x64
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Debug|x86.Build.0 = Debug|Win32
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Release|x64.ActiveCfg = Release|x64
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Release|x64.Build.0 = Release|x64
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Release|x86.ActiveCfg = Release|Win32
+		{705598C0-3158-481D-BCFF-F30D035EDD5D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC92363-221F-4755-8AD3-D13B55CAF4D0}
+	EndGlobalSection
+EndGlobal
